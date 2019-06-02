@@ -40,14 +40,14 @@
     "uniqCompNum": 10,
     "versionPublish": "4.10.1",
     "screenshot": "screenshot.png",
-    "favicon": "",
+    "favicon": "@PROJECT_PATH@/assets/images/user-male-30x30.png",
     "noImageResize": ""
   },
   "pages": {
     "index.html": {
       "settings": {
         "main": true,
-        "title": "Home",
+        "title": "George Sabourin",
         "meta_descr": "Landing page for George Sabourin's website.",
         "header_custom": "",
         "footer_custom": "",
