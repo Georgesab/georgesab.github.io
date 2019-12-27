@@ -1174,7 +1174,7 @@ pre {
     display: none;
   }
 }
-@media (max-width: 991px) {
+@media (max-width: 1023px) {
   .navbar-toggleable-md .navbar-nav .dropdown-menu {
     position: static;
     float: none;
@@ -1184,7 +1184,7 @@ pre {
     padding-left: 0;
   }
 }
-@media (min-width: 992px) {
+@media (min-width: 1024px) {
   .navbar-toggleable-md {
     -webkit-box-orient: horizontal;
     -webkit-box-direction: normal;
@@ -1450,10 +1450,48 @@ body {
 .cid-rrkVDKUTaB .card-img {
   color: #efefef;
 }
-.cid-rrlm190rIp {
+.cid-rLTK58AVTA {
   padding-top: 15px;
   padding-bottom: 15px;
   background-color: #232323;
+}
+.cid-rLTK58AVTA .mbr-section-subtitle {
+  color: #ffffff;
+  font-weight: 300;
+}
+.cid-rLTK58AVTA .mbr-content-text {
+  color: #767676;
+}
+.cid-rLTK58AVTA .card {
+  word-wrap: break-word;
+  flex-shrink: 0;
+  -webkit-flex-shrink: 0;
+}
+.cid-rLTK58AVTA .cards-container {
+  display: flex;
+  -webkit-flex-direction: row;
+  flex-direction: row;
+  -webkit-flex-wrap: wrap;
+  flex-wrap: wrap;
+  -webkit-justify-content: center;
+  justify-content: center;
+  word-break: break-word;
+}
+@media (max-width: 767px) {
+  .cid-rLTK58AVTA .card:not(.last-child) {
+    padding-bottom: 1.5rem;
+  }
+}
+.cid-rLTK58AVTA .img-text {
+  color: #c1c1c1;
+}
+.cid-rLTK58AVTA H4 {
+  color: #efefef;
+}
+.cid-rrlm190rIp {
+  padding-top: 15px;
+  padding-bottom: 15px;
+  background-color: #2e2e2e;
 }
 .cid-rrlm190rIp .mbr-section-subtitle {
   color: #ffffff;
@@ -1491,7 +1529,7 @@ body {
 .cid-rrlkKXiVhz {
   padding-top: 15px;
   padding-bottom: 15px;
-  background-color: #2e2e2e;
+  background-color: #232323;
 }
 .cid-rrlkKXiVhz .mbr-section-subtitle {
   color: #ffffff;
